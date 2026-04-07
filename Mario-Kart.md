@@ -64,7 +64,7 @@
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/simulador-mario-kart.git
+git clone https://github.com/Markin11-Dev/simulador-mario-kart.git
 
 # Acesse a pasta do projeto
 cd simulador-mario-kart
@@ -155,4 +155,4 @@ Este projeto está sob a licença **ISC**. Veja o arquivo [LICENSE](LICENSE) par
 
 ---
 
-<p align="center">Feito com ❤️ e muito <strong>🍄</strong></p>
+
